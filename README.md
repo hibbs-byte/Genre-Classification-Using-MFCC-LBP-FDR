@@ -84,5 +84,5 @@ The classification models achieved promising accuracy, particularly when using F
 
 ## Author
 
-This project was developed by [Your Name].  
-For inquiries or collaborations, please connect via [LinkedIn](https://www.linkedin.com/in/YOURPROFILE) or email at your.email@example.com.
+This project was developed by Mohammad Hibban Ali.  
+
